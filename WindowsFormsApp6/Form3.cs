@@ -19,7 +19,7 @@ namespace WindowsFormsApp6
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form4 F = new Form4();
+            Form4 F = new Form4();//
             F.Show();
         }
 
